@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776830769279",
+    "project_id": "muraqib-6c183",
+    "storage_bucket": "muraqib-6c183.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776830769279:android:a83d82fca29c34e381074a",
+        "android_client_info": {
+          "package_name": "com.example.muraqib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSyZ4wb0WzInisswaef7t4EwL9PmjzxLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
