@@ -1,6 +1,3 @@
-Here’s a structured and organized README file template for your GitHub project with emojis for better visualization:
-
-```markdown
 # 📱 Muraqib - Smart Maintenance Management System
 
 Muraqib is a smart property maintenance management system that leverages advanced technologies like computer vision and clustering to enhance efficiency, reduce costs, and promote sustainability in real estate management.
@@ -106,6 +103,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 🎉 Thank you for contributing to **Muraqib** and making property management smarter!
-```
-
-Feel free to customize this as per your project’s specific details!
